@@ -1,0 +1,13 @@
+.app__constituency {
+    padding: 12px 16px;
+    background-color: var(--background-color-default);
+    color: var(--font-color-default);
+    border: none;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.app__constituency:hover {
+    cursor: pointer;
+    background-color: var(--background-color-hover);
+}

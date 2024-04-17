@@ -4,7 +4,7 @@
 }
 
 :root {
-  --background-color-default: rgba(255, 255, 255, 0.87);
+  --background-color-default: #ffffff;
   --background-color-hover: rgba(0, 0, 0, 0.08);
   --font-color-default: #2a2a2a;
 
